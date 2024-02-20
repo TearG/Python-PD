@@ -1,0 +1,17 @@
+#Comparando Números 
+
+print(2 == 2)
+print(2 == 7)
+print(2 != 2)
+print(2 != 7)
+print(2 > 7)
+print(7 > 2)
+print(2 < 7)
+print(7 < 2)
+print(2 > 2)
+print(2 >= 2)
+print(2 <= 2)
+print(7 <= 8)
+print(2 == 2.00)
+print(2 == 12/4.0 -2 +  1**6)
+print(7*4-20 <= 2*19/5)

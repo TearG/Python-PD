@@ -1,0 +1,15 @@
+#Operacoes Aritmeticas
+
+print(2 + 3)
+print(5 - 2)
+print(12.3 * 4.7)
+print(12 / 4)
+print(3 + 2)
+print(3 + 2)
+print(13 / 5)
+print(13 // 5)
+print(13 % 5)
+print(2**10)
+print(2 + 3 * 4 - 16 / 5 + 13 - 2**8)
+print(2 + (3 * 4) - (16 / 5) + 13 - (2**8))
+print((2 + 3) * 4 - 16 / (5 + 13 - 2)**8)

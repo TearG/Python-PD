@@ -1,4 +1,4 @@
-#Criacao de Variaveis e Utilização das mesmas
+#Criacão de Variaveis e Utilização das mesmas
 
 numero = 7
 print(numero)

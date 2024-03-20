@@ -2,5 +2,6 @@
 #import aula02
 #import aula03
 #import aula04
-import soma
+#import soma
 #import escolha
+import voto
